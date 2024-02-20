@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{4809A4CC-7216-4CF8-8ECF-AB3485784505}|Default">
-  <MonoDevelop.Ide.ItemProperties.ExercicioTriangulo FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExercicioTriangulo/Program.cs">
+    <Files>
+      <File FileName="ExercicioTriangulo/Program.cs" Line="22" Column="24" />
+      <File FileName="ExercicioTriangulo/Triangulo.cs" Line="8" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExercicioTriangulo" expanded="True">
+            <Node name="ExercicioTriangulo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExercicioTriangulo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

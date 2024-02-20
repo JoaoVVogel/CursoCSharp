@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joaovitorvogelvieira/Documents/GitHub/cursoC#/ExercicioTriangulo/ExercicioTriangulo/ExercicioTriangulo.csproj": {}
+    "/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/ExercicioTriangulo.csproj": {}
   },
   "projects": {
-    "/Users/joaovitorvogelvieira/Documents/GitHub/cursoC#/ExercicioTriangulo/ExercicioTriangulo/ExercicioTriangulo.csproj": {
+    "/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/ExercicioTriangulo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joaovitorvogelvieira/Documents/GitHub/cursoC#/ExercicioTriangulo/ExercicioTriangulo/ExercicioTriangulo.csproj",
+        "projectUniqueName": "/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/ExercicioTriangulo.csproj",
         "projectName": "ExercicioTriangulo",
-        "projectPath": "/Users/joaovitorvogelvieira/Documents/GitHub/cursoC#/ExercicioTriangulo/ExercicioTriangulo/ExercicioTriangulo.csproj",
+        "projectPath": "/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/ExercicioTriangulo.csproj",
         "packagesPath": "/Users/joaovitorvogelvieira/.nuget/packages/",
-        "outputPath": "/Users/joaovitorvogelvieira/Documents/GitHub/cursoC#/ExercicioTriangulo/ExercicioTriangulo/obj/",
+        "outputPath": "/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joaovitorvogelvieira/.nuget/NuGet/NuGet.Config"

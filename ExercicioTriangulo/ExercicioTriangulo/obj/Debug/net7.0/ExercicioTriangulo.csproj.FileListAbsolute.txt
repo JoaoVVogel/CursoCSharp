@@ -1,0 +1,15 @@
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/bin/Debug/net7.0/ExercicioTriangulo
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/bin/Debug/net7.0/ExercicioTriangulo.deps.json
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/bin/Debug/net7.0/ExercicioTriangulo.runtimeconfig.json
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/bin/Debug/net7.0/ExercicioTriangulo.dll
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/bin/Debug/net7.0/ExercicioTriangulo.pdb
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/Debug/net7.0/ExercicioTriangulo.csproj.AssemblyReference.cache
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/Debug/net7.0/ExercicioTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/Debug/net7.0/ExercicioTriangulo.AssemblyInfoInputs.cache
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/Debug/net7.0/ExercicioTriangulo.AssemblyInfo.cs
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/Debug/net7.0/ExercicioTriangulo.csproj.CoreCompileInputs.cache
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/Debug/net7.0/ExercicioTriangulo.dll
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/Debug/net7.0/refint/ExercicioTriangulo.dll
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/Debug/net7.0/ExercicioTriangulo.pdb
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/Debug/net7.0/ExercicioTriangulo.genruntimeconfig.cache
+/Users/joaovitorvogelvieira/Documents/GitHub/CursoCSharp/ExercicioTriangulo/ExercicioTriangulo/obj/Debug/net7.0/ref/ExercicioTriangulo.dll
